@@ -1,4 +1,7 @@
-Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements
+# Road-Accident-Data-Analysis (Interaction Dashboard creation using MS Excel)
+## Project Objective
+Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the casualities of the accident from 2021 to 2022.
+
 ## Dataset Used
 <a href="https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?gid=1319047066#gid=1319047066">Dataset</a>
 
@@ -24,3 +27,7 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 
 ##Dashboard
 ![dashgbaord](https://github.com/user-attachments/assets/8825ea2e-4bbc-450c-b228-684bc351a220)
+
+* The majority of accidents occurred on single carriageways (309.7K), suggesting these roads may lack adequate safety features or enforcement.
+* Cars were involved in the most accidents (333,485), potentially due to their high usage and traffic density.
+* Daylight accidents (305K) were nearly 3x higher than those at night (112.9K), indicating traffic volume or daytime distractions may be a factor.
