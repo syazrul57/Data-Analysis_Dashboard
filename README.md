@@ -1,4 +1,6 @@
-Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements-
+Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements
+
+## Questions (KPIs)
 * Primary KPI - Total Casualties taken place after the accident
 * Primary KPI's - Total Casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle
 * Secondary KPI's - Total Casualties with respect to vehicle type
@@ -6,6 +8,10 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 * Maximum casualties by Road Type
 * Distribution of total casualties by Road Surface
 * Relation between Casualties by Area/ Location & by Day/ Night
+
+- Dashboard Interaction <a href="https://github.com/syazrul57/Data-Analysis_Dashboard/blob/main/dashgbaord.png">View Dashboard</a>
+
+## Process
 
 # Data-Analysis_Dashboard
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
