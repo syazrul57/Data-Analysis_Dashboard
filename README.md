@@ -25,9 +25,13 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 # Data-Analysis_Dashboard
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
 
-##Dashboard
+## Dashboard
 ![dashgbaord](https://github.com/user-attachments/assets/8825ea2e-4bbc-450c-b228-684bc351a220)
 
+## Project Insight
 * The majority of accidents occurred on single carriageways (309.7K), suggesting these roads may lack adequate safety features or enforcement.
 * Cars were involved in the most accidents (333,485), potentially due to their high usage and traffic density.
 * Daylight accidents (305K) were nearly 3x higher than those at night (112.9K), indicating traffic volume or daytime distractions may be a factor.
+
+## Final Conclusion
+The dashboard analysis reveals that road accidents are most prevalent on single carriageways, primarily involve cars, and occur more frequently during daylight hours. These patterns suggest that road infrastructure, traffic volume, and driver behavior during peak hours may significantly influence accident rates. The findings highlight the need for targeted road safety measures, improved traffic management, and driver awareness campaigns to reduce accidents in high-risk areas and time periods.
